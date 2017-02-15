@@ -1,0 +1,12 @@
+body { color:green;
+            background-color:black;
+            font-style: Times New Roman; }
+P    { text-align: center; }
+H1   { text-align: center; }
+H2   { text-align: center; }
+ul   { text-align: center; }
+#time
+{
+  text-indent: 50;
+  color:pink;
+}
